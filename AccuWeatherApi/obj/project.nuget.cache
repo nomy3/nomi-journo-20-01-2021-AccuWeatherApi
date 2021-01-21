@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "S5ofU8CtTpiYTNewMi6qLS7OWLpuLC488438K34GEodemtvbbu0YIxqXOofScXF3sRW7UlogxaMoDcWJ4VcFHw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Liel\\Documents\\Naomi\\AccuWeather\\AccuWeatherApi\\AccuWeatherApi\\AccuWeatherApi.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Liel\\.nuget\\packages\\newtonsoft.json\\12.0.3\\newtonsoft.json.12.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
